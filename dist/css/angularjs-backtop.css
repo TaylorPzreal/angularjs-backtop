@@ -1,0 +1,29 @@
+.angularjs-backtop {
+  align-items: center;
+  background-color: rgba(0, 0, 0, .4);
+  border-radius: .2px;
+  bottom: 70px;
+  color: #eee;
+  cursor: pointer;
+  display: flex;
+  height: 34px;
+  justify-content: center;
+  position: fixed;
+  right: 15px;
+  width: 34px;
+}
+
+.angularjs-backtop>i {
+  width: 14px;
+  height: 14px;
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  transform: rotate(45deg);
+  margin-top: 6px;
+}
+
+.angularjs-backtop:hover {
+  background-color: rgba(0, 0, 0, .6);
+  box-shadow: 0 0 20px rgba(0, 0, 0, .4);
+  color: #fff;
+}

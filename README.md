@@ -1,5 +1,6 @@
 # angularjs-backtop
 Angularjs1.x back to top plugin.(Need jQuery)
+![AngularjsBackTop](./src/example/example.png)
 
 ## Installtion(Just 3 steps.)
 1. ```yarn add angularjs-backtop``` OR ```npm install angularjs-backtop```

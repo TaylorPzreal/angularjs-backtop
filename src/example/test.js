@@ -1,7 +1,7 @@
-import '../angularjs-backtop.css';
+import '../../dist/css/angularjs-backtop.css';
 
 import angular from 'angular';
-import '../angularjs-backtop.js';
+import '../../dist/js/angularjs-backtop.js';
 
 const app = angular.module('app', ['AngularjsBackTop']);
 app.controller('AppCtrl', [

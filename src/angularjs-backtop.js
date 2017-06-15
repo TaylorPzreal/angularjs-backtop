@@ -1,6 +1,3 @@
-// import angular from 'angular';
-// import $ from 'jquery';
-
 export default angular
   .module('AngularjsBackTop', [])
   .directive('angularjsBackTop', [
@@ -15,9 +12,6 @@ export default angular
           const elShare = angular.element(
             '<a title="返回顶部" ng-click="backTop()" class="angularjs-backtop"><i></i></a>'
           );
-          // const elShare = $(
-          //   '<a title="返回顶部" ng-click="backTop()" class="angularjs-backtop"><i></i></a>'
-          // );
 
           function showShare() {
             if (!elShare.hasClass('ng-scope')) {

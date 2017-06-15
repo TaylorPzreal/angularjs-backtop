@@ -1,18 +1,12 @@
 var AngularjsBackTop = (function () {
 'use strict';
 
-// import angular from 'angular';
-// import $ from 'jquery';
-
 var angularjsBacktop = angular.module('AngularjsBackTop', []).directive('angularjsBackTop', ['$window', '$document', '$compile', function ($window, $document, $compile) {
   return {
     restrict: 'EA',
     link: function link(scope, elem, attr) {
       var $scope = scope;
       var elShare = angular.element('<a title="返回顶部" ng-click="backTop()" class="angularjs-backtop"><i></i></a>');
-      // const elShare = $(
-      //   '<a title="返回顶部" ng-click="backTop()" class="angularjs-backtop"><i></i></a>'
-      // );
 
       function showShare() {
         if (!elShare.hasClass('ng-scope')) {

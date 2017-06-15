@@ -2,8 +2,8 @@
   "name": "angularjs-backtop",
   "version": "1.0.0",
   "description": "angularjs back top plugin",
-  "main": "dist/angularjs-backtop.js",
-  "module": "dist/angularjs-backtop.es.js",
+  "main": "dist/js/angularjs-backtop.js",
+  "module": "dist/js/angularjs-backtop.es.js",
   "files": [
     "src",
     "dist",

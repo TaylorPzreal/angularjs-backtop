@@ -6,10 +6,10 @@ Angularjs1.x back to top plugin.(Need jQuery)
 2. At your root module js.
 ```javascript
 import 'angularjs-backtop/dist/css/angularjs-backtop.css';
-import 'angularjs-backtop;
+import 'angularjs-backtop';
 
 // put 'AngularjsBackTop' to your root angular module.
-const app = angular.module('app', ['AngularjsBackTop]);
+const app = angular.module('app', ['AngularjsBackTop']);
 others...
 ```
 3. At your root index.html

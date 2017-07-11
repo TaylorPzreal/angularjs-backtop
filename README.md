@@ -1,5 +1,8 @@
-# angularjs-backtop [![NPM]](https://www.npmjs.com/package/angularjs-backtop)
-Angularjs1.x back to top plugin.(Need jQuery)
+# angularjs-backtop
+[![npm version](https://img.shields.io/npm/v/angularjs-backtop.svg?style=flat)](https://www.npmjs.com/package/angularjs-backtop)
+
+> Angularjs1.x back to top plugin.(Need jQuery)
+
 ![AngularjsBackTop](src/example/example.png)
 
 ## Installtion(Just 3 steps.)

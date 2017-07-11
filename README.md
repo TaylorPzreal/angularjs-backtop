@@ -1,4 +1,4 @@
-# angularjs-backtop
+# angularjs-backtop [![NPM]](https://www.npmjs.com/package/angularjs-backtop)
 Angularjs1.x back to top plugin.(Need jQuery)
 ![AngularjsBackTop](src/example/example.png)
 
